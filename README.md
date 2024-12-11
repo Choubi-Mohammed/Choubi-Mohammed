@@ -27,4 +27,4 @@ Welcome to my GitHub profile! I’m passionate about technology, creativity, and
 - He/Him  
 
 ## ⚡ Fun fact:  
-I’m based in Morocco, speak Darija, and I’m always exploring innovative ways to merge technology with creative solutions. Outside of coding, I enjoy discovering new mobile games and diving into digital maps.  
+I’m based in Morocco, and I’m always exploring innovative ways to merge technology with creative solutions. Outside of coding, I enjoy discovering new mobile games and diving into digital maps.  
