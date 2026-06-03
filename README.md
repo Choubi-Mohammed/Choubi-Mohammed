@@ -17,6 +17,6 @@ Right now, I’m busy building things that matter and making sense of the digita
 * **Discord:**
 <div style="display: flex; align-items: center;">
 <a href="https://discord.com/users/1163737559411728414">
-  <img src="https://lanyard.cnrad.dev/api/1163737559411728414?bg=002f5b&borderRadius=20px&idleMessage=Garbage%20collecting%20my%20own%20thoughts&theme=dark" />
+  <img src="https://lanyard.cnrad.dev/api/1163737559411728414?bg=000000&idleMessage=Don't%20waste%20my%20time.%20It's%20the%20only%20currency%20that%20matters.&hideSpotify=true&hideDecoration=true&borderRadius=25px&theme=dark" />
 </a>
 </div>
